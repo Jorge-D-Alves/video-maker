@@ -23,7 +23,6 @@ async function start() {
     return selectedPrefixText
   }
 
-
 }
 
 start()
